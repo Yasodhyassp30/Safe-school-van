@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097339278014",
+    "project_id": "school-van-ba461",
+    "storage_bucket": "school-van-ba461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097339278014:android:724b73085298f34020c4ef",
+        "android_client_info": {
+          "package_name": "com.example.school_van_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097339278014-k3m9bfg1eluft230i1bd9n96umoeh6d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.school_van_app",
+            "certificate_hash": "c0bbd72dc5cbd05293b49ba110ccbebb04f9b292"
+          }
+        },
+        {
+          "client_id": "1097339278014-8sssi3s0cnel0uvv0okd1h9be787tbf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKov6OH7w4feeIrSCAip6YyqcK8TddNSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097339278014-8sssi3s0cnel0uvv0okd1h9be787tbf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
